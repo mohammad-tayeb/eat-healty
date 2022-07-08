@@ -20,12 +20,13 @@ body {
 h2 {
     color: rgb(78, 72, 72);
     font-size: 40px;
+    margin: 5px;
 }
 
 .first-para {
     width: 50%;
     padding-left: 10%;
-    padding-top: 5%;
+    padding-top: 10%;
 }
 
 .body1 {
@@ -36,6 +37,8 @@ h2 {
 
 .small-para {
     font-size: small;
+    color: rgb(116, 113, 113);
+    margin-bottom: 30px;
 }
 
 .felxible-container {
@@ -62,4 +65,17 @@ h2 {
     width: 50%;
     padding-right: 15%;
     padding-top: 5%;
+}
+
+.topbanner1 {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.section3 {
+    text-align: center;
+}
+
+h3 {
+    font-size: larger;
 }
