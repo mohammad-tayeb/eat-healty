@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+
 }
 
 .orange-color {
@@ -124,4 +125,13 @@ h3 {
 .blackfont {
     color: black;
     margin: -5%;
+}
+
+.section6 {
+    background-color: rgb(5, 5, 22);
+    padding: 5%;
+}
+
+.footerpart {
+    text-align: center;
 }
