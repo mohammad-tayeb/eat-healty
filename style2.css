@@ -43,7 +43,7 @@ h2 {
 
 .felxible-container {
     display: flex;
-    margin-bottom: 120px;
+    margin-bottom: 100px;
 
 }
 
@@ -78,4 +78,33 @@ h2 {
 
 h3 {
     font-size: larger;
+}
+
+.half-width {
+    height: fit-content;
+    width: 40%;
+    margin-left: 70px;
+    box-shadow: 5px 5px 5px 1px rgb(176, 176, 176);
+    border-radius: 50px;
+    margin-right: 20px;
+    padding: 10px;
+    border-left: 2px solid tomato;
+}
+
+.half-width img {
+    width: 90%;
+    padding-left: 23px;
+    padding-top: 20px;
+}
+
+.half-width p {
+    padding-left: 20px;
+}
+
+.half-width h3 {
+    padding-left: 20px;
+}
+
+.section4 {
+    padding-top: 20px;
 }
